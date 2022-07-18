@@ -20,7 +20,7 @@ body{
 }
 
 .card{
-    width: calc(100% / 3 - 2rem);
+    width: calc(100% / 3 - 3rem);
     background-color: white;
     border-radius: 10px;
 }
